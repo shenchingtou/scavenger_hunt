@@ -1,0 +1,5 @@
+theme :
+  name : bootstrap
+
+page:
+  title: hello
